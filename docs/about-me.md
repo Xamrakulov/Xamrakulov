@@ -4,7 +4,7 @@
 
 ### Some people know me by the nickname <span class='title'>Muhammadiy</span>
 
-I am an independent software developer currently based in Uzbekistan. I am one of the founders and CEO of [Sombra](https://sombra.uz), and also participated in many major projects. Most of my work is open source and publicly available on [GitHub](https://github.com/MKbek). If you happen to benefit from my OSS work, you can support me financially via [GitHub Sponsors](https://github.com/sponsors/MKbek).
+I am an independent software developer currently based in Uzbekistan. I am one of the founders and CEO of [Sombra](https://sombra.uz), and also participated in many major projects. Most of my work is open source and publicly available on [GitHub](https://github.com/Xamrakulov). If you happen to benefit from my OSS work, you can support me financially via [GitHub Sponsors](https://github.com/sponsors/Xamrakulov).
 
 ## Social networks
 
