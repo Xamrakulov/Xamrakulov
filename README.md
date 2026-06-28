@@ -38,7 +38,7 @@
 
   <br />
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkbek&theme=algolia)](https://github.com/mkbek)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xamrakulov&theme=algolia)](https://github.com/Xamrakulov)
 
 </details>
 
@@ -47,9 +47,9 @@
 
 
 
-[![Muhammadiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkbek&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/mkbek)
+[![Muhammadiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xamrakulov&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/Xamrakulov)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mkbek&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/mkbek)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Xamrakulov&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/Xamrakulov)
 
 
 [C]: https://www.iso.org/standard/74528.html
