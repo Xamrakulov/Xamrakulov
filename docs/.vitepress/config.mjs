@@ -6,6 +6,9 @@ export default defineConfig({
   description: "About Me",
   head: [['link', { rel: 'icon', href: 'https://github.com/mkbek.png' }]],
   cleanUrls: true,
+  // Served as a GitHub project page at https://xamrakulov.github.io/Xamrakulov/.
+  // If a custom domain (root) is re-enabled, change this back to '/'.
+  base: '/Xamrakulov/',
 
   themeConfig: {
     logo: "https://github.com/mkbek.png",
@@ -13,6 +16,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Companies', link: '/companies' },
+      { text: 'Privacy', link: '/privacy' },
       // { text: 'Sponsors', link: '/sponsors' }
     ],
 
