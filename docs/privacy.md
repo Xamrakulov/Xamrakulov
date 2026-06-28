@@ -44,4 +44,4 @@ reflected on this page with a new "Last updated" date.
 ## Contact
 
 If you have any questions about this Privacy Policy, contact us at:
-[muhammadiy@sombra.uz](mailto:muhammadiy@sombra.uz)
+[muhammadiy.k@icloud.com](mailto:muhammadiy.k@icloud.com)
