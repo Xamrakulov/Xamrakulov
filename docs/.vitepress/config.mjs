@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Companies', link: '/companies' },
+      { text: 'Privacy', link: '/privacy' },
       // { text: 'Sponsors', link: '/sponsors' }
     ],
 
